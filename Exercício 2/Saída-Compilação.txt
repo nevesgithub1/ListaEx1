@@ -1,4 +1,0 @@
-﻿Build iniciado...
-1>------ Compilação iniciada: Projeto: Exercicio1, Configuração: Debug Any CPU ------
-1>  Exercicio1 -> C:\Users\satel\Downloads\Exercicio1\Exercicio1\bin\Debug\Exercicio1.exe
-========== Compilar: 1 com êxito, 0 com falha, 0 atualizados, 0 ignorados ==========
